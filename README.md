@@ -9,5 +9,5 @@ OpenWeatherMap의 무료 API를 사용했으며, 디자인은 아이폰의 날�
 - JavaScript
 - HTML
 - CSS
-- Vue.js
+- Framework: Vue.js
 
