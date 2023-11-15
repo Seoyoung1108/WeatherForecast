@@ -1,24 +1,13 @@
-# WeatherForecast
+## 일기 예보
+다양한 지역의 현재 날씨 및 일기 예보를 확인할 수 있는 웹 사이트
 
-## Project setup
-```
-yarn install
-```
+### 프로젝트 소개
+다양한 국가의 여러 지역의 현재 날씨 및 일기 예보를 나타낸 웹 사이트입니다.
+OpenWeatherMap의 무료 API를 사용했으며, 디자인은 아이폰의 날씨 앱을 응용했습니다.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### 개발환경
+- JavaScript
+- HTML
+- CSS
+- Vue.js
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
